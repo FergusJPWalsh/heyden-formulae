@@ -24,7 +24,7 @@ The only other modern edition of the Latin text is that of Justin Slocom Bailey:
 
 ## Textual Note
 
-This edition does is not a full scholarly or critical edition (for which see [this project](http://ezs-online.de/de/forschung/gefoerderte-aktivitaeten/dfg)), but rather aims to be an edition that can be used by students of Latin and Ancient Greek. I have not refrained from emending Ruland's Greek translation where I judged his Greek to be unidiomatic or ungrammatical. These emendations are shown next to the original text in an in-line _apparatus criticus_ in square brackets.
+This edition does is not a full scholarly or critical edition (for which see [this project](http://ezs-online.de/de/forschung/gefoerderte-aktivitaeten/dfg)), but rather aims to be an edition that can be used by students of Latin and Ancient Greek. I have not refrained from emending Ruland's Greek translation where I judged his Greek to be unidiomatic or ungrammatical. These emendations are shown next to the original text in an in-line _apparatus criticus_ in square brackets. Angled brackets < > show text that I have added. The obelisk † marks a word that cannot be transcribed from the source scan. 
 
 ## Progress
 
