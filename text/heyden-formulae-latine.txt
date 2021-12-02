@@ -1,16 +1,3 @@
-t.0 Title Page
-t.1 Fōrmulae Colloquiōrum Puerīlium prō prīmīs tīrōnibus Sebaldinae Scholae Norimbergae, per Sebaldum Heyden eōrundem praeceptōrem cōnscrīptae.
-t.2 Sebaldus Heyden ad Nāsūtum Lēctōrem: Cōnsūltūm pŭĕrīs vŏlŭmūs, Nāsūtĕ vălētō|Quaerĭtŭr hīs frūctūs, glōrĭă nūllă mĭhī
-t.3 MDXXX
-d.0 Dedicatory Epistle
-d.1 Sebaldus Heyden puerīs suae fideī commissīs S. D.
-d.2 Procul dubiō meministis adhūc, optimī puerī, cūr alterō ab hinc annō veterem illum ūsum, quō vōbīs per singulōs diēs bīna rērum vocābula ὁμοιοτελευτικῆς ἑρμηνείας addiscenda prōpōnēbantur, ē meō lūdō explōserim, nempe quod absurdus et ferē nūllīus frūctus vidērētur. Quid enim ad Latīnam phrasim adeō hoc faceret, sī ūnō et alterō vocābulō perceptō, nūllus praetereā ūsus accēderet? Substituī autem in locum vōbīs singulīs diēbus singulās ōrātiunculās, quae tamen octō syllabās nōn excēderent, addiscendās. Idque in fōrmam dialogōrum, ut sīc in addiscendō grātior facultās, et in repetendō iūcundior commoditās rudibus adhūc ingeniīs accēderet. Quia vērō libellī illī Latīniāriī (ut vocantur) nostrā manū vōbīs cōnscrīptī perpetuī esse nequeunt, et immēnsus labor sit, quotiēs perierint illī, novōs exscrībere, et tamen nisi hōs dialogōs tōtōs quisque habeat, praeterquam quod citrā taedium repetere nē utiquam possit, etiam nūllum frūctum cōnsequī valeat, ideō eōs quālēscunque tandem sunt imprimendōs cūrāvī, ut exiguō aere lacerātōs libellōs reparāre possētis, et vōs quotīdiānae repetītiōnis, vel ob charactērīs venustātem tantō minus pigēret. Grātīs igitur haec mūnera accipite animīs, atque vestrum praeceptōrem, ut dignum est, dīligite et colite.
-d.3 Valēte
-e.0 Epigrams
-e.1 Dīcĕrĕ dīcēndō dīscēs, pŭĕr, ērgŏ Lătīnē|Suēscĕ lŏquī, quāvīs ūsŭs ĭn ārtĕ vălēt
-e.2 Sī pŭĕrī scīrēnt, rēs quāntă sĭt ēssĕ pĕrītūm,|Vīx ĕtĭām sōmnō tēmpŏră pārvă dărēnt.
-e.3 Nī quĭs ĕt hūmānōs mōrēs sĭmŭl ārtĭbŭs āddāt|Īngĕnŭīs, quāmvīs dōctŭs hăbētŭr ĭnērs.
-e.4 Mōrĭbŭs hūmānīs mĭhĭ vērē praedĭtŭs īll(e) ēst,|Quēm prōdēssĕ iŭvāt, quēm dărĕ dāmnă pŭdēt,|Hōc ĕtĕnīm brūtīs hŏmŏ praestăt ĭnērtĭbŭs ūnō,|Sī sīc quōsquĕ cŏlāt ceu cŭpĭt īpsĕ cŏlī.
 1.t Dialogus I Salūtātiō Mātūtīna
 1.p Andreas, Balthasar
 1.1 Bonus diēs.
