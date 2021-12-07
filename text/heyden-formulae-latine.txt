@@ -1,76 +1,76 @@
 1.t Dialogus I Salūtātiō Mātūtīna
 1.p Andreas, Balthasar
-1.1 Bonus diēs.
-1.2 Deō grātia [GL gratias B].
-1.3 Optō tibi bonum diem.
-1.4 Tālem et tibi precor.
-1.5 Bene sit tibi hōc diē.
-1.6 Nec tibi male sit.
+1.1 A. Bonus diēs.
+1.2 B. Deō grātia [GL gratias B].
+1.3 A. Optō tibi bonum diem.
+1.4 B. Tālem et tibi precor.
+1.5 A. Bene sit tibi hōc diē.
+1.6 B. Nec tibi male sit.
 2.t Dialogus II Salūtātiō Merīdiāna
 2.p Blasius, Clēmēns
-2.1 Salvē, Clēmēns.
-2.2 Salvē et tū.
-2.3 Salvē plūrimum.
-2.4 Et tū tantundem salvē.
-2.5 Salvus sīs tū.
-2.6 Tū quoque salvē.
-2.7 Salūtem tibi precor.
-2.8 Eandem et tibi optō.
-2.9 Salūte tē impertior.
-2.10 Et ego quoque tē.
-2.11 Iubeō tē salvēre.
-2.12 Tē quoque ego.
+2.1 B. Salvē, Clēmēns.
+2.2 C. Salvē et tū.
+2.3 B. Salvē plūrimum.
+2.4 C. Et tū tantundem salvē.
+2.5 B. Salvus sīs tū.
+2.6 C. Tū quoque salvē.
+2.7 B. Salūtem tibi precor.
+2.8 C. Eandem et tibi optō.
+2.9 B. Salūte tē impertior.
+2.10 C. Et ego quoque tē.
+2.11 B. Iubeō tē salvēre.
+2.12 C. Tē quoque ego.
 3.t Dialogus III Salūtātiō Vespertīna
 3.p Carolus, Demetrius
-3.1 Bonus vesper.
-3.2 Grātia Deō.
-3.3 Bonum sērum, nōn sērō.
-3.4 Laus creātōrī.
-3.5 Hic vesper fēlīx sit tibi [GL tibi sit B].
-3.6 Nec tibi īnfēlīx sit.
+3.1 C. Bonus vesper.
+3.2 D. Grātia Deō.
+3.3 C. Bonum sērum, nōn sērō.
+3.4 D. Laus creātōrī.
+3.5 C. Hic vesper fēlīx sit tibi [GL tibi sit B].
+3.6 D. Nec tibi īnfēlīx sit.
 4.t Dialogus IV Sub Prīmam Facem Noctis
 4.p Detius, Eustachius
-4.1 Bona nox. [G om. BL]
-4.2 Habeō grātiam. [G om. BL]
-4.3 Sit tibi haec nox fēlīx.
-4.4 Et tibi fausta haec sit.
-4.5 Faustam dēgās noctem.
-4.6 Tū quoque nōn īnfaustam.
-4.7 Nox istaec vōbīs commodet.
-4.8 Et tibi nōn incommodet.
+4.1 D. Bona nox. [G om. BL]
+4.2 E. Habeō grātiam. [G om. BL]
+4.3 D. Sit tibi haec nox fēlīx.
+4.4 E. Et tibi fausta haec sit.
+4.5 D. Faustam dēgās noctem.
+4.6 E. Tū quoque nōn īnfaustam.
+4.7 D. Nox istaec vōbīs commodet.
+4.8 E. Et tibi nōn incommodet.
 5.t Dialogus V Dum Ītur Cubitum
 5.p Fēlīx, Gaspar
-5.1 Quota est hōra?
-5.2 Sonuit tertiam.
-5.3 Eundum est cubitum.
-5.4 Nōn dormitūriō.
-5.5 At ego oppidō.
-5.6 Tū eās cubitum.
-5.7 Quid tū autem agēs?
-5.8 Pergam legere.
-5.9 Mālō quiēscere.
-5.10 Facesse hinc Endymiōn!
-5.11 Haud tē impedīverō.
+5.1 F. Quota est hōra?
+5.2 G. Sonuit tertiam.
+5.3 F. Eundum est cubitum.
+5.4 G. Nōn dormitūriō.
+5.5 F. At ego oppidō.
+5.6 G. Tū eās cubitum.
+5.7 F. Quid tū autem agēs?
+5.8 G. Pergam legere.
+5.9 F. Mālō quiēscere.
+5.10 G. Facesse hinc Endymiōn!
+5.11 F. Haud tē impedīverō.
 6.t Dialogus VI Dum Redītur Cubitū
 6.p Gabriel, Heinricus
-6.1 Heus, expergīscere!
-6.2 Sine ut dormiam.
-6.3 Surgendī tempus est.
-6.4 Nōndum dīlūxit.
-6.5 Aperī oculōs!
-6.6 Adhūc gravantur somnō.
-6.7 Es glīre somnolentior.
-6.8 Rogō nē sīs molestus.
-6.9 Nōn pudet tē, asine?
-6.10 Cuius mē pudeat?
-6.11 In multam lūcem stertere.
+6.1 G. Heus, expergīscere!
+6.2 H. Sine ut dormiam.
+6.3 G. Surgendī tempus est.
+6.4 H. Nōndum dīlūxit.
+6.5 G. Aperī oculōs!
+6.6 H. Adhūc gravantur somnō.
+6.7 G. Es glīre somnolentior.
+6.8 H. Rogō nē sīs molestus.
+6.9 G. Nōn pudet tē, asine?
+6.10 H. Cuius mē pudeat?
+6.11 G. In multam lūcem stertere.
 6.12 Quotam hōram sonuit?
-6.13 Iam imminet prīma.
-6.14 Adhūc parum dormiam.
-6.15 Quīn surgis, piger?
-6.16 Quōmodo tam manē?
-6.17 Mox fuste tē excitābō!
-6.18 Iam surgō, parce precor!
+6.13 G. Iam imminet prīma.
+6.14 H. Adhūc parum dormiam.
+6.15 G. Quīn surgis, piger?
+6.16 H. Quōmodo tam manē?
+6.17 G. Mox fuste tē excitābō!
+6.18 H. Iam surgō, parce precor!
 7.t Dialogus VII Dum Ītur in [G ad BL] Scholam
 7.p Hanno, Ioannes
 7.1 Heu, quid facimus?
