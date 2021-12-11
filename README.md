@@ -1,6 +1,6 @@
 # Sebald Heyden _Formulae Colloquiorum Puerilium_ and the Greek translation of Martin Ruland the Elder
 
-A repository for a digitisation effort of Sebald Heyden _Formulae Colloquiorum Puerilium_ (1527) and the Greek translation of Martin Ruland the Elder (1556). A HTML version is provided [here]().
+A repository for a digitisation effort of Sebald Heyden _Formulae Colloquiorum Puerilium_ (1527) and the Greek translation of Martin Ruland the Elder (1556). A HTML version is provided [here](https://fergusjpwalsh.github.io/heyden-formulae).
 
 This text is being prepared as part of the [Greek Learner Texts Project](https://greek-learner-texts.org/).
 
