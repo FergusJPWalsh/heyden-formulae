@@ -16,6 +16,7 @@ The witnesses to the text and translaton and their sigla are:
 
 * **G**: _Formulae colloquiorum puerilium Sebaldi Heyden eleganter e Latino nunc redditae Graecae per Martinum Ruelandum Frisingensem_, Philipp Ulhart (Philippus Ulhardus), Augsburg (Augusta Rhetica), 1556. Bayerische Staatsbibliothek, shelfmarks: VD16 H 3378, ESlg/A.gr.b. 2159, L.lat. 408. [Link](https://opacplus.bsb-muenchen.de/title/BV004622644)
 * **G2**: Corrections from the _errata et corrigenda_ page of **G**.
+* **E**: _Formulae Puerilium Colloquiorum, pro primis tyronibus Sebaldinae Scholae Norimbergae, per Sebaldum Heyden eorundem praeceptorem conscriptae_, Erfurt, 1527. Ratsschulbibliothek, Zwickau, 2.7.22(8). Accessed via the transcription of Jörg Riecke, Dominika Bopp and Sebastian Rosenberger,  Sebald Heydens _"Formulae Puerilium Colloquiorum" : Zur Geschichte eines frühneuzeitlichen Gesprächsbuchs_, Wolfenbüttel 2019-2020 [Link](http://diglib.hab.de/content.php?dir=edoc/ed000267&distype=optional&metsID=edoc_ed000267_transcript_Erfurt-1527_sm&xml=texts%2Ftei-transcript_Erfurt_1527.xml&xsl=scripts/tei-transcript.xsl)
 * **L**: _Formulae Puerilium Colloquiorum, pro primis tyronibus Sebaldinae Scholae Norimbergae, per Sebaldum Heyden eorundem praeceptorem conscriptae_, Alexander Weißenhorn (Alexandrus Vueyssenhorn), Augsburg (Augusta Vindelicorum), 1530. Bayerische Staatsbibliothek, shelfmarks: VD16 H 3355, Res/L.eleg.g. 184 d. [Link](https://opacplus.bsb-muenchen.de/title/BV001435074)
 
 The only other modern edition of the Latin text is that of Justin Slocom Bailey:

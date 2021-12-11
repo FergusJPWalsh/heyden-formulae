@@ -73,446 +73,446 @@
 6.18 H. Iam surgō, parce precor!
 7.t Dialogus VII Dum Ītur in [G ad BL] Scholam
 7.p Hanno, Ioannes
-7.1 Heu, quid facimus?
-7.2 Cūr sīc vōciferās?
-7.3 Nimis diū dormīvī.
-7.4 Quid ita? Quid timēs?
-7.5 Tempus praescrīptum trānsiit.
-7.6 Quod tempus dīcis?
-7.7 Hōram prīmam.
-7.8 Tū certē falleris.
-7.9 Tamen audīvī.
-7.10 Nōn rēctē audīstī.
-7.11 Quotam tū audīstī?
-7.12 Audīvī ultimam.
-7.13 Quota ea est?
-7.14 Duodecima.
-7.15 Utinam vērum sit!
-7.16 Nōn est quod dubitēs.
-7.17 Oppidō laetor.
-8.t Dum [G Inter BL] Eundum in Scholam
+7.1 H. Heu, quid facimus?
+7.2 I. Cūr sīc vōciferās?
+7.3 H. Nimis diū dormīvī.
+7.4 I. Quid ita? Quid timēs?
+7.5 H. Tempus praescrīptum [BLG iūstum E] trānsiit.
+7.6 I. Quod tempus dīcis?
+7.7 H. Hōram prīmam.
+7.8 I. Tū certē falleris.
+7.9 H. Tamen audīvī.
+7.10 I. Nōn rēctē audīstī.
+7.11 H. Quotam tū audīstī?
+7.12 I. Audīvī ultimam.
+7.13 H. Quota ea est?
+7.14 I. Duodecima.
+7.15 H. Utinam vērum sit!
+7.16 I. Nōn est quod dubitēs.
+7.17 H. Oppidō laetor.
+8.t Dum [G Inter BLE] Eundum in Scholam
 8.p Iodocus, Kilianus
-8.1 Heus, heus, manē!
-8.2 Quid vīs? Cūr maneam?
-8.3 Est quod tēcum loquar.
-8.4 Modo nōn vacat.
-8.5 Tantillum pernegēs?
-8.6 Mitte mē modo.
-8.7 Nōn tē dīmittam.
-8.8 Ēnecās mē, furcifer!
-8.9 Tantum verbum audī.
-8.10 Ecquid meā refert?
-8.11 Permultum scīlicet.
-8.12 Quid negōtiī est? Dīc.
-8.13 Dīcam, modo dēs fidem.
-8.14 Quam fidem darem?
-8.15 Tē nōn fore invidum.
-8.16 Dō fidem, fīdus erō.
-8.17 Adhibē hūc aurem.
-8.18 Quid aurem? Clārē dīc.
-8.19 Arcāna rēs est.
-8.20 Tamen sōlī sumus.
-8.21 Clārē nōn dīcam.
-8.22 Lūdificāris nunc mē!
-8.23 Id est quod voluī.
-8.24 Haud impūne hoc ferēs.
-9.t Dialogus IX Inter Discendum in Scholīs [G Scholā BL]
-9.p Kilianus [BG Ciriacus L], Lamperdus
-9.1 Heus tū, hūc sēde!
-9.2 Quid istīc facerem?
-9.3 Discāmus simul.
-9.4 Rem grātam offers.
-9.5 Alter alterum doceat.
-9.6 Perlubēns pāreō.
-9.7 Quidnam tū discis?
-9.8 Discō legere.
-9.9 Ubi nunc legis?
-9.10 In hōc foliō.
-9.11 Scīs lēctiōnem?
-9.12 Nōn admodum prōmptē.
-9.13 Quotiēs recitāstī?
-9.14 Recitāvi [B om. GL] semel. (Bis. Ter. Quater.)
-9.15 Cuinam recitāstī?
-9.16 Rēctōrī scholae.
-9.17 Sī quid nescīs, rogā.
-9.18 Quī hoc legam?
-9.19 Collige litterās.
-9.20 Tū mē observā.
-9.21 Ut haesitās linguā?
-9.22 Sīc assuētus sum.
-9.23 Dēsuēsce rūrsus.
-9.24 Pergam legere.
-9.25 Iam verba praecipitās.
-9.26 Tū melius docē.
-9.27 Sīc distīnctē legās.
-9.28 Tam clārē haud queō.
-9.29 Ūsū addisce.
-9.30 Tentābō quid possim.
+8.1 I. Heus, heus, manē!
+8.2 K. Quid vīs? Cūr maneam?
+8.3 I. Est quod tēcum loquar.
+8.4 K. Modo nōn vacat.
+8.5 I. Tantillum pernegēs?
+8.6 K. Mitte mē modo.
+8.7 I. Nōn tē dīmittam.
+8.8 K. Ēnecās mē, furcifer!
+8.9 I. Tantum verbum audī.
+8.10 K. Ecquid meā refert?
+8.11 I. Permultum scīlicet.
+8.12 K. Quid negōtiī est? Dīc.
+8.13 I. Dīcam, modo dēs fidem.
+8.14 K. Quam fidem darem?
+8.15 I. Tē nōn fore invidum.
+8.16 K. Dō fidem, fīdus erō.
+8.17 I. Adhibē hūc aurem.
+8.18 K. Quid aurem? Clārē dīc.
+8.19 I. Arcāna rēs est.
+8.20 K. Tamen sōlī sumus.
+8.21 I. Clārē nōn dīcam.
+8.22 K. Lūdificāris nunc mē!
+8.23 I. Id est quod voluī.
+8.24 K. Haud impūne hoc ferēs.
+9.t Dialogus IX Inter Discendum in Scholīs [G Scholā BLE]
+9.p Kilianus [BGE Ciriacus L], Lamperdus
+9.1 K. Heus tū, hūc sēde!
+9.2 L. Quid istīc facerem?
+9.3 K. Discāmus simul.
+9.4 L. Rem grātam offers.
+9.5 K. Alter alterum doceat.
+9.6 L. Perlubēns pāreō.
+9.7 K. Quidnam tū discis?
+9.8 L. Discō legere.
+9.9 K. Ubi nunc legis?
+9.10 L. In hōc foliō.
+9.11 K. Scīs lēctiōnem?
+9.12 L. Nōn admodum prōmptē.
+9.13 K. Quotiēs recitāstī?
+9.14 L. Recitāvi semel. (Bis. Ter. Quater.) [GL, B. om. "Recitāvi", E habet "Semel/Bis/Ter/Quater recitānt"]
+9.15 K. Cuinam recitāstī?
+9.16 L. Rēctōrī scholae.
+9.17 K. Sī quid nescīs, rogā.
+9.18 L. Quī hoc legam?
+9.19 K. Collige litterās.
+9.20 L. Tū mē observā.
+9.21 K. Ut haesitās linguā?
+9.22 L. Sīc assuētus sum.
+9.23 K. Dēsuēsce rūrsus.
+9.24 L. Pergam legere.
+9.25 K. Iam verba praecipitās.
+9.26 L. Tū melius docē.
+9.27 K. Sīc distīnctē legās.
+9.28 L. Tam clārē haud queō.
+9.29 K. Ūsū addisce.
+9.30 L. Tentābō quid possim.
 10.t Dialogus X Dē Cavendīs in Scholā Cōrycaeīs
 10.p Lūcās, Mārcus
-10.1 Cūr tū sīc mūtīs?
-10.2 Nōn audeō loquī.
-10.3 Quis tē prohibet?
-10.4 Praeceptor noster.
-10.5 Tamen is nōn adest.
-10.6 At Cōrycaeī adsunt.
-10.7 Quōs Cōrycaeōs dīcis?
-10.8 Quī clanculum nōs signant.
-10.9 Nūllum ex hīs nōstī?
-10.10 Quī ego nōscerem?
-10.11 Tam cautē rem agunt?
-10.12 Ea est illīs āstūtia.
-10.13 Tū loquere Latīnē!
-10.14 Quam vellem, sī scīrem.
-10.15 At sīc addiscēs citius.
-10.16 Hāc spē dulcēscit ferula!
+10.1 L. Cūr tū sīc mūtīs? [BGL mussās E]
+10.2 M. Nōn audeō loquī.
+10.3 L. Quis tē prohibet?
+10.4 M. Praeceptor noster.
+10.5 L. Tamen is nōn adest.
+10.6 M. At Cōrycaeī adsunt.
+10.7 L. Quōs Cōrycaeōs dīcis?
+10.8 M. Quī clanculum nōs signant.
+10.9 L. Nūllum ex hīs nōstī?
+10.10 M. Quī ego nōscerem?
+10.11 L. Tam cautē rem agunt?
+10.12 M. Ea est illīs āstūtia.
+10.13 L. Tū loquere Latīnē!
+10.14 M. Quam vellem, sī scīrem.
+10.15 L. At sīc addiscēs citius.
+10.16 M. Hāc spē dulcēscit ferula!
 11.t Dialogus XI Dē Ferulā
 11.p Mārtīnus, Nīcolāus
-11.1 Quis hīc eiulat?
-11.2 Ego sum miser.
-11.3 Quō pactō [BL Quōmodo G] miser es?
-11.4 Virgīs caesus sum.
-11.5 Quid commeruistī?
-11.6 Nihil didiceram.
-11.7 Meritō caesus es.
-11.8 Etiam tū mē lūdis?
-11.9 Cūr autem nōn didicerās?
-11.10 Posthāc erō cautior.
+11.1 M. Quis hīc eiulat?
+11.2 N. Ego sum miser.
+11.3 M. Quō pactō [BLE Quōmodo G] miser es?
+11.4 N. Virgīs caesus sum.
+11.5 M. Quid commeruistī?
+11.6 N. Nihil didiceram.
+11.7 M. Meritō caesus es.
+11.8 N. Etiam tū mē lūdis?
+11.9 M. Cūr autem nōn didicerās?
+11.10 N. Posthāc erō cautior.
 12.t Dialogus XII Dē Ientāculō
 12.p Naevius, Osvaldus
-12.1 Quō tū nunc abīs?
-12.2 Domum mē cōnferō.
-12.3 Quid domī agēs?
-12.4 Sūmam ientāculum.
-12.5 Quānam itūrus es?
-12.6 Hāc per forum.
-12.7 Comitābor tē.
-12.8 Nihil opus est.
-12.9 Āversārīs mē?
-12.10 Nōn, sed parcō.
-12.11 Nihil est quod agam.
-12.12 Lubēns tē accipiō.
+12.1 N. Quō tū nunc abīs?
+12.2 O. Domum mē cōnferō.
+12.3 N. Quid domī agēs?
+12.4 O. Sūmam ientāculum.
+12.5 N. Quānam itūrus es?
+12.6 O. Hāc per forum.
+12.7 N. Comitābor tē.
+12.8 O. Nihil opus est.
+12.9 N. Āversārīs mē?
+12.10 O. Nōn, sed parcō.
+12.11 N. Nihil est quod agam.
+12.12 O. Lubēns tē accipiō.
 13.t Dialogus XIII Dē Reditū ā Ientāculō
 13.p Onophrius, Paulus
-13.1 Unde nōbīs redīs?
-13.2 Ā ientāculō.
-13.3 Ubī ientāstī?
-13.4 Rogās? Domī meae.
-13.5 Quid ientāstī?
-13.6 Pānem iūrulentum.
-13.7 Quis tēcum ientāvit?
-13.8 Tōta familia.
-13.9 Nihil mihi adfers?
-13.10 Quid adferrem tibi?
-13.11 Frustum pānis.
-13.12 Pānem quidem habeō.
-13.13 Cedo mihi partem.
-13.14 Accipe dīmidium.
-13.15 Agō tibi grātiās.
-13.16 Nōn age, sed refer.
-13.17 Nōn est unde referam.
-13.18 Nōn semper egēbis.
-13.19 Grātum mē reperiēs.
+13.1 O. Unde nōbīs redīs?
+13.2 P. Ā ientāculō.
+13.3 O. Ubī ientāstī?
+13.4 P. Rogās? Domī meae.
+13.5 O. Quid ientāstī?
+13.6 P. Pānem iūrulentum.
+13.7 O. Quis tēcum ientāvit?
+13.8 P. Tōta familia.
+13.9 O. Nihil mihi adfers?
+13.10 P. Quid adferrem tibi?
+13.11 O. Frustum pānis.
+13.12 P. Pānem quidem habeō.
+13.13 O. Cedo mihi partem.
+13.14 P. Accipe dīmidium.
+13.15 O. Agō tibi grātiās.
+13.16 P. Nōn age, sed refer.
+13.17 O. Nōn est unde referam.
+13.18 P. Nōn semper egēbis.
+13.19 O. Grātum mē reperiēs.
 14.t Dialogus XIV Dē Praeparāmentīs ad Scrībendum
 14.p Petrus, Quirīnus
-14.1 Parā mihi hanc pennam.
-14.2 Est tibi cultellus?
-14.3 Est, sed valdē hebēs.
-14.4 Acūtiōrem adfer.
-14.5 Ubi accipiam?
-14.6 Ūtendum expete.
-14.7 Adferō, ūtere.
-14.8 Vīs crassam an tenuem?
-14.9 Mediam volō.
-14.10 Dā ātrāmentum.
-14.11 Ēn ātrāmentārium.
-14.12 Dā quoque papȳrum.
-14.13 Et haec in prōmptū est.
-14.14 Papȳrus perfluit.
-14.15 Nōn habeō aliam.
-14.16 Quid vīs ut scrībam?
-14.17 Praescrībe litterās.
-14.18 Tū imitāberis?
-14.19 Ita, in hōc petō.
-14.20 Saepe exscrībe.
-14.21 Faciam ut iubēs.
+14.1 P. Parā mihi hanc pennam.
+14.2 Q. Est tibi cultellus?
+14.3 P. Est, sed valdē hebēs.
+14.4 Q. Acūtiōrem adfer.
+14.5 P. Ubi accipiam?
+14.6 Q. Ūtendum expete.
+14.7 P. Adferō, ūtere.
+14.8 Q. Vīs crassam an tenuem?
+14.9 P. Mediam volō.
+14.10 Q. Dā ātrāmentum.
+14.11 P. Ēn ātrāmentārium.
+14.12 Q. Dā quoque papȳrum.
+14.13 P. Et haec in prōmptū est.
+14.14 Q. Papȳrus perfluit.
+14.15 P. Nōn habeō aliam.
+14.16 Q. Quid vīs ut scrībam?
+14.17 P. Praescrībe litterās.
+14.18 Q. Tū imitāberis?
+14.19 P. Ita, in hōc petō.
+14.20 Q. Saepe exscrībe.
+14.21 P. Faciam ut iubēs.
 15.t Dialogus XV Inter Redeundum ā Scholā
-15.p Quintīnus [BG Conradus L], Rodolphus
-15.1 Ut tēcum agitur?
-15.2 Bene mēcum agitur.
-15.3 Id lubēns audiō.
-15.4 Grātiam habeō.
-15.5 Ubī iam fuistī?
-15.6 In lūdō litterāriō.
-15.7 Quōrsum sīc properās?
-15.8 Domum versus.
-15.9 Quid domī agēs?
-15.10 Adōrnābō mēnsam.
-15.11 Tam māne prandēs?
-15.12 Obsequor parentī.
-15.13 Facis ut tē decet.
-15.14 Abeō, tū valē.
-15.15 Tū quoque valē.
+15.p Quintīnus [BGE Conradus L], Rodolphus
+15.1 Q. Ut tēcum agitur?
+15.2 R. Bene mēcum agitur.
+15.3 Q. Id lubēns audiō.
+15.4 R. Grātiam habeō.
+15.5 Q. Ubī iam fuistī?
+15.6 R. In lūdō litterāriō.
+15.7 Q. Quōrsum sīc properās?
+15.8 R. Domum versus.
+15.9 Q. Quid domī agēs?
+15.10 R. Adōrnābō mēnsam.
+15.11 Q. Tam māne prandēs?
+15.12 R. Obsequor parentī.
+15.13 Q. Facis ut tē decet.
+15.14 R. Abeō, tū valē.
+15.15 Q. Tū quoque valē.
 16.t Dialogus XVI Dum Īnstruitur Mēnsa
 16.p Remigius, Sebaldus
-16.1 Puer, ubi es?
-16.2 Adsum, quid mē vīs?
-16.3 Īnstrue mēnsam.
-16.4 Est tempus prandiō?
-16.5 Est, quandō sīc libet.
-16.6 Rēctē cūrābitur.
-16.7 Porrige cultrōs.
-16.8 In prōmptū sunt.
-16.9 Dā mappās manuāriās.
-16.10 Et istae adsunt.
-16.11 Adpōne salīnum.
-16.12 Prius sale implēbō.
-16.13 Ēlue calicēs.
-16.14 Dūdum lāvī.
-16.15 Adfer orbēs.
-16.16 In scamnō iacent.
-16.17 Et corbem cocleāriam.
-16.18 Ē paxillō pendet.
-16.19 Aptā circulum.
-16.20 Nunquid aliud vīs?
-16.21 Nunc mōrēs discās.
-16.22 Quōs mōrēs discam?
-16.23 Quōs in mēnsā servēs.
-16.24 Rogō mē doceās.
-16.25 Perlubēns hoc faciam.
-16.26 Ego auscultābō.
-16.27 Nē mē interpellā.
-16.28 Haud verbum faciam.
-16.29 Prīmō unguēs pūrgā. Hinc manūs lavā. Mox Deō benedīcās: "Deus Pater noster caelestis benedīcat nōbīs fīliīs suīs et hīs quae iam sumus sūmptūrī, per Chrīstum Iēsum Dominum nostrum. Āmēn." Post decenter accumbe. Cibōs carpe digitīs. Nē conde volā. Prīmus nē estō ēsū. Nec prīmum bibās. Cubitis nē tē fulciās. Ērēctus sēde. Nec pandās brāchia. Nōn bibās avidē. Nec mandās avidē. Proxima tē carpe. In orbe nē morāre. Aliōs nē īnspicitō. Bībitūrus, ōs terge. Nōn manū, sed mappulā. Morsa nē redintinge. Nē linge digitōs. Nec ossa rōdās. Quaeque scinde cultrō. Ōs nōn perungās. Digitōs saepe terge. Nārēs nē fode. Nōn rogātus taceās. Quod satis est, ēde. Cum satur es, surge. Rūrsus lavā manūs. Mēnsālia tolle. Deō grātiās age: "Quī nōs creāvit, redēmit et pavit, illī grātiās agimus sempiternās, per Iēsum Chrīstum Dominum nostrum. Āmēn."
+16.1 R. Puer, ubi es?
+16.2 S. Adsum, quid mē vīs?
+16.3 R. Īnstrue mēnsam.
+16.4 S. Est tempus prandiō?
+16.5 R. Est, quandō sīc libet.
+16.6 S. Rēctē cūrābitur.
+16.7 R. Porrige cultrōs.
+16.8 S. In prōmptū sunt.
+16.9 R. Dā mappās manuāriās.
+16.10 S. Et istae adsunt.
+16.11 R. Adpōne salīnum.
+16.12 S. Prius sale implēbō.
+16.13 R. Ēlue calicēs.
+16.14 S. Dūdum lāvī.
+16.15 R. Adfer orbēs.
+16.16 S. In scamnō iacent.
+16.17 R. Et corbem cocleāriam.
+16.18 S. Ē paxillō pendet.
+16.19 R. Aptā circulum.
+16.20 S. Nunquid aliud vīs?
+16.21 R. Nunc mōrēs discās.
+16.22 S. Quōs mōrēs discam?
+16.23 R. Quōs in mēnsā servēs.
+16.24 S. Rogō mē doceās.
+16.25 R. Perlubēns hoc faciam.
+16.26 S. Ego auscultābō.
+16.27 R. Nē mē interpellā.
+16.28 S. Haud verbum faciam.
+16.29 R. Prīmō unguēs pūrgā. Hinc manūs lavā. Mox Deō benedīcās: “Deus Pater noster caelestis benedīcat nōbīs fīliīs suīs et hīs quae iam sumus sūmptūrī, per Chrīstum Iēsum Dominum nostrum. Āmēn.” Post decenter accumbe. Cibōs carpe digitīs. Nē conde volā. Prīmus nē estō ēsū. Nec prīmum bibās. Cubitis nē tē fulciās. Ērēctus sēde. Nec pandās brāchia. Nōn bibās avidē. Nec mandās avidē. Proxima tē carpe. In orbe nē morāre. Aliōs nē īnspicitō. Bībitūrus, ōs terge. Nōn manū, sed mappulā. Morsa nē redintinge. Nē linge digitōs. Nec ossa rōdās. Quaeque scinde cultrō. Ōs nōn perungās. Digitōs saepe terge. Nārēs nē fode. Nōn rogātus taceās. Quod satis est, ēde. Cum satur es, surge. Rūrsus lavā manūs. Mēnsālia tolle. Deō grātiās age: “Quī nōs creāvit, redēmit et pavit, illī grātiās agimus sempiternās, per Iēsum Chrīstum Dominum nostrum. Āmēn.”
 17.t Dialogus XVII Ā Prandiō Redeuntium in Scholam
 17.p Simōn, Titus
-17.1 Quid geris in sinū?
-17.2 Merendam meam.
-17.3 Ego nihil attulī.
-17.4 Quid autem edēs?
-17.5 Emam mihi pānem.
-17.6 Habēs pecūniam?
-17.7 Obolum habeō.
-17.8 Quis tibi hunc dedit?
-17.9 Pater meus dedit.
-17.10 Pium habēs patrem.
-17.11 Quālem tū habēs?
-17.12 Admodum dūrum.
-17.13 In rem tuam est.
-17.14 Māllem alium.
-17.15 Stūltē loqueris.
-17.16 Sīc mihi excidit.
-17.17 Perīrēs licentiā.
+17.1 S. Quid geris in sinū?
+17.2 T. Merendam meam.
+17.3 S. Ego nihil attulī.
+17.4 T. Quid autem edēs?
+17.5 S. Emam mihi pānem.
+17.6 T. Habēs pecūniam?
+17.7 S. Obolum habeō.
+17.8 T. Quis tibi hunc dedit?
+17.9 S. Pater meus dedit.
+17.10 T. Pium habēs patrem.
+17.11 S. Quālem tū habēs?
+17.12 T. Admodum dūrum.
+17.13 S. In rem tuam est.
+17.14 T. Māllem alium.
+17.15 S. Stūltē loqueris.
+17.16 T. Sīc mihi excidit.
+17.17 S. Perīrēs licentiā.
 18.t Dialogus XVIII In Scholā Lūdentium
 18.p Tīmotheus, Vitus
-18.1 Vae nōbīs, Vite!
-18.2 Quid est? Quid tremis?
-18.3 Ego et tū perīmus.
-18.4 Quid ita? Quā dē causā?
-18.5 Praeceptor venit.
-18.6 Quid ex tē audiō?
-18.7 Vae nostrīs nātibus!
-18.8 Ubi is est, obsecrō?
-18.9 Per gradūs ascendit.
-18.10 Quis id ait? Quis vīdit?
-18.11 Egomet inquam vīdī!
-18.12 Vīditne nōs lūdere?
-18.13 Id est quod timeō.
-18.14 Quid ergō agēmus?
-18.15 Āmovē orbiculōs.
-18.16 Rēctē admonēs.
-18.17 Explicēmus librōs.
-18.18 Certē astūtus es.
-18.19 Sīc rēbitur[L reputābitur G rebit B] nōs studēre.
+18.1 T. Vae nōbīs, Vite!
+18.2 V. Quid est? Quid tremis?
+18.3 T. Ego et tū perīmus.
+18.4 V. Quid ita? Quā dē causā?
+18.5 T. Praeceptor venit.
+18.6 V. Quid ex tē audiō?
+18.7 T. Vae nostrīs nātibus!
+18.8 V. Ubi is est, obsecrō?
+18.9 T. Per gradūs ascendit.
+18.10 V. Quis id ait? Quis vīdit?
+18.11 T. Egomet inquam vīdī!
+18.12 V. Vīditne nōs lūdere?
+18.13 T. Id est quod timeō.
+18.14 V. Quid ergō agēmus?
+18.15 T. Āmovē orbiculōs.
+18.16 V. Rēctē admonēs.
+18.17 T. Explicēmus librōs.
+18.18 V. Certē astūtus es.
+18.19 T. Sīc rēbitur[LE reputābitur G rebit B] nōs studēre.
 19.t Dialogus XIX Dē Dēmissiōne ā Litterīs
-19.p Godfridus, Israël [G Ulysses, Xanthus BL]
-19.1 Iō, gaudēte sodālēs!
-19.2 Quid est quod sīc gestīs?
-19.3 Sunt nōbīs fēriae.
-19.4 Quās dīcis fēriās?
-19.5 Ōtium ā litterīs.
-19.6 Quando ociābimur?
-19.7 Hodiē ā prandiō.
-19.8 Ergō lūdēmus.
-19.9 Quidnam lūdēmus?
-19.10 Lūdēmus globulīs.
-19.11 Lūdus puerīlis est.
-19.12 Quem tū lūdum māllēs?
-19.13 Dēcertēmus saltū.
-19.14 Hunc lūdum ōdī.
-19.15 Quānam dē causā?
-19.16 Quia pedēs lassat.
-19.17 Annōn pudet tē?
-19.18 Cuius mē pudēret?
-19.19 Quod tam piger es.
-19.20 Certē piger nōn sum.
-19.21 Quīn ergō saltābis?
-19.22 Cave nē prōvocēs!
-19.23 Immō tē adiūrō.
-19.24 Vidēbis quid possim.
+19.p Godfridus, Israël [G Ulysses, Xanthus BLE]
+19.1 G. Iō, gaudēte sodālēs!
+19.2 I. Quid est quod sīc gestīs?
+19.3 G. Sunt nōbīs fēriae.
+19.4 I. Quās dīcis fēriās?
+19.5 G. Ōtium ā litterīs.
+19.6 I. Quando ociābimur?
+19.7 G. Hodiē ā prandiō.
+19.8 I. Ergō lūdēmus.
+19.9 G. Quidnam lūdēmus?
+19.10 I. Lūdēmus globulīs.
+19.11 G. Lūdus puerīlis est.
+19.12 I. Quem tū lūdum māllēs?
+19.13 G. Dēcertēmus saltū.
+19.14 I. Hunc lūdum ōdī.
+19.15 G. Quānam dē causā?
+19.16 I. Quia pedēs lassat.
+19.17 G. Annōn pudet tē?
+19.18 I. Cuius mē pudēret?
+19.19 G. Quod tam piger es.
+19.20 I. Certē piger nōn sum.
+19.21 G. Quīn ergō saltābis?
+19.22 I. Cave nē prōvocēs!
+19.23 G. Immō tē adiūrō.
+19.24 I. Vidēbis quid possim.
 20.t Dialogus XX Lītigantium Dē Sessiōne
-20.p Iācōbus, Chrīstophorus [G Stephanus, Ysidōrus L 'X', 'Y' B]
-20.1 Apage tē hinc.
-20.2 Satis imperiōsē.
-20.3 Hīc mihi locus est.
-20.4 Atquī ego negō.
-20.5 Prior hīc sēdī.
-20.6 Cūr autem surrēxistī?
-20.7 Negōtium mihi fuit.
-20.8 Quid signī posuistī?
-20.9 Nōn vidēs librum?
-20.10 Liber istīc iacet.
-20.11 At tū sēmōvistī.
-20.12 Id factum pernegō.
-20.13 Quīn tandem cēdēs?
-20.14 Tū mē vī extrūdēs?
-20.15 Nisi volēns cesseris.
-20.16 Hoc dīcam magistrō.
-20.17 Sūsque dēque ferō.
+20.p Iācōbus, Chrīstophorus [G Stephanus, Ysidōrus L “X, Y” BE]
+20.1 I. Apage tē hinc.
+20.2 C. Satis imperiōsē.
+20.3 I. Hīc mihi locus est.
+20.4 C. Atquī ego negō.
+20.5 I. Prior hīc sēdī.
+20.6 C. Cūr autem surrēxistī?
+20.7 I. Negōtium mihi [om. E] fuit.
+20.8 C. Quid signī posuistī?
+20.9 I. Nōn vidēs librum?
+20.10 C. Liber istīc iacet.
+20.11 I. At tū sēmōvistī.
+20.12 C. Id factum pernegō.
+20.13 I. Quīn tandem cēdēs?
+20.14 C. Tū mē vī extrūdēs?
+20.15 I. Nisi volēns cesseris.
+20.16 C. Hoc dīcam magistrō.
+20.17 I. Sūsque dēque ferō.
 21.t Dialogus XXI Invītantium Sē Invicem
-21.p Maximilianus, Paulus [G 'Y', 'Z' BL]
-21.1 Crās ad mē venī.
-21.2 Metuō ut possim.
-21.3 Cūr nōn possīs?
-21.4 Domī manendum est.
-21.5 Quid negōtiī est?
-21.6 Oportet scrībere.
-21.7 Scrībitō perendiē.
-21.8 Nihil polliceor.
-21.9 Sīc colis socium?
-21.10 Culpa nōn est mea.
-21.11 Possēs sī vellēs.
-21.12 Vellem sī possem.
+21.p Maximilianus, Paulus [G “Y, Z” BLE]
+21.1 M. Crās ad mē venī.
+21.2 P. Metuō ut possim.
+21.3 M. Cūr nōn possīs?
+21.4 P. Domī manendum est.
+21.5 M. Quid negōtiī est?
+21.6 P. Oportet scrībere.
+21.7 M. Scrībitō perendiē.
+21.8 P. Nihil polliceor.
+21.9 M. Sīc colis socium?
+21.10 P. Culpa nōn est mea.
+21.11 M. Possēs sī vellēs.
+21.12 P. Vellem sī possem.
 22.t Dialogus XXII Dē Studiō Interrogantium
 22.p Ābraham, Briccius
-22.1 Quid ā cēnā facis?
-22.2 Cupis hoc scīre?
-22.3 Ideō scīscitor.
-22.4 Post cibum dēambulō.
-22.5 Quid posteā agis?
-22.6 Audīta repetō.
-22.7 Quōmodo hoc facis?
-22.8 Saepe relegendō.
-22.9 Quid sī quid excidit?
-22.10 Discō postrīdiē.
+22.1 A. Quid ā cēnā facis?
+22.2 B. Cupis hoc scīre?
+22.3 A. Ideō scīscitor.
+22.4 B. Post cibum dēambulō.
+22.5 A. Quid posteā agis?
+22.6 B. Audīta repetō.
+22.7 A. Quōmodo hoc facis?
+22.8 B. Saepe relegendō.
+22.9 A. Quid sī quid excidit?
+22.10 B. Discō postrīdiē.
 23.t Dialogus XXIII Dē Absentiā ā Scholā
 23.p Benedictus, Chrīstophorus
-23.1 Ubi herī fuerās?
-23.2 Quōnam tempore?
-23.3 Statim ā prandiō.
-23.4 Domī meae lāvī.
-23.5 Quam diū lāvistī?
-23.6 Tōtam fermē hōram.
-23.7 Quis tēcum lāvit?
-23.8 Parentēs meī.
-23.9 Lōtus quid fēcerās?
-23.10 Siccābam capillōs.
-23.11 Cūr nōn ībās in scholam?
-23.12 Pater prohibēbat.
-23.13 Cūr prohibēbat?
-23.14 Nam caput madēbat.
-23.15 Dēlicātus puer es!
+23.1 B. Ubi herī fuerās?
+23.2 C. Quōnam tempore?
+23.3 B. Statim ā prandiō.
+23.4 C. Domī meae lāvī.
+23.5 B. Quam diū lāvistī?
+23.6 C. Tōtam fermē hōram.
+23.7 B. Quis tēcum lāvit?
+23.8 C. Parentēs meī.
+23.9 B. Lōtus quid fēcerās?
+23.10 C. Siccābam capillōs.
+23.11 B. Cūr nōn ībās in scholam?
+23.12 C. Pater prohibēbat.
+23.13 B. Cūr prohibēbat?
+23.14 C. Nam caput madēbat.
+23.15 B. Dēlicātus puer es!
 24.t Dialogus XXIV Mūtuō Gratulatium Sibi
 24.p Cyrillus, Dōnātus
-24.1 Unde iam prōrēpis?
-24.2 Ē domō meā.
-24.3 Diū tē nōn vīdī.
-24.4 Et ego tē diūtius.
-24.5 Valuistīne bene?
-24.6 Optimē valuī.
-24.7 Edepol, gaudeō!
-24.8 Ut tū autem valēs?
-24.9 Admodum bellē.
-24.10 Et ipsum gaudeō.
-25.t Dialogus XXV Agnōscentium Sēsē Mūtuō [GL in Lūdō B]
+24.1 C. Unde iam prōrēpis?
+24.2 D. Ē domō meā.
+24.3 C. Diū tē nōn vīdī.
+24.4 D. Et ego tē diūtius.
+24.5 C. Valuistīne bene?
+24.6 D. Optimē valuī.
+24.7 C. Edepol, gaudeō!
+24.8 D. Ut tū autem valēs?
+24.9 C. Admodum bellē.
+24.10 D. Et ipsum gaudeō.
+25.t Dialogus XXV Agnōscentium Sēsē Mūtuō [GLE in Lūdō B]
 25.p Simōn, Petrus
-25.1 Quod tibi nōmen est?
-25.2 Mihi nōmen est Petrō.
-25.3 Quī sīs nōn nōvī.
-25.4 Nōn mē nōvistī?
-25.5 Nōn negem, sī nōverim.
-25.6 Oblītusne es meī?
-25.7 Ante nunquam tē vīdī.
-25.8 At tamen agnōscēs!
-25.9 Sānus, Hercle, nōn es!
-25.10 Egone, an tū magis?
-25.11 Ubi tē nōvissem?
-25.12 In [om. L] lūdō litterāriō.
-25.13 Fuistī condiscipulus?
-25.14 Ita, ferē biennium.
-25.15 Sine mēcum recolam.
-25.16 Agnōsce cicātrīcem.
-25.17 Hanc tibi incusseram!
-25.18 Cum thēcā pennāria.
-25.19 Dē cicātrīce tē nōvī.
-25.20 Vidēs quod nōn īnsāniam.
-25.21 Dē fōrmā nōn nōvissem.
+25.1 S. Quod tibi nōmen est?
+25.2 P. Mihi nōmen est Petrō.
+25.3 S. Quī sīs nōn nōvī.
+25.4 P. Nōn mē nōvistī?
+25.5 S. Nōn negem, sī nōverim.
+25.6 P. Oblītusne es meī?
+25.7 S. Ante nunquam tē vīdī.
+25.8 P. At tamen agnōscēs!
+25.9 S. Sānus, Hercle, nōn es!
+25.10 P. Egone, an tū magis?
+25.11 S. Ubi tē nōvissem?
+25.12 P. In [om. L] lūdō litterāriō.
+25.13 S. Fuistī condiscipulus?
+25.14 P. Ita, ferē biennium.
+25.15 S. Sine mēcum recolam.
+25.16 P. Agnōsce cicātrīcem.
+25.17 S. Hanc tibi incusseram!
+25.18 P. Cum thēcā pennāria.
+25.19 S. Dē cicātrīce tē nōvī.
+25.20 P. Vidēs quod nōn īnsāniam.
+25.21 S. Dē fōrmā nōn nōvissem.
 26.t Dialogus XXVI Lītigantium Dē Rē Ablātā
-26.p Sīmo, Līvius [G Petrōnius, Theodōrus BL]
-26.1 Redde quod meum est.
-26.2 Quid vīs reddam?
-26.3 Quod surripuistī.
-26.4 Nihil tibi surripuī.
-26.5 Aufer cavillum.
-26.6 Nōn equidem cavillor.
-26.7 Quīn reddis tandem?
-26.8 Nihil, Hercle, sūmpsī!
-26.9 Ostende hūc manūs.
-26.10 Hem, ostendō eccās.
-26.11 Quid abstulistī?
-26.12 Equidem nihil abstulī!
-26.13 Excute manicam.
-26.14 Tuō arbitrātū.
-26.15 Inter vestēs habēs.
-26.16 Tentā quālubet.
-26.17 Nōvī sȳcophantiās.
-26.18 Pergis molestus esse?
-26.19 Ablātum restitue.
-26.20 Fūrtī mē adligās?
-26.21 Nōn fūrtī, sed fraudis.
-26.22 Ulcīscar hanc iniūriam!
-26.23 Et ego tē ulcīscar!
+26.p Sīmo, Līvius [G Petrōnius, Theodōrus BLE]
+26.1 S. Redde quod meum est.
+26.2 L. Quid vīs reddam?
+26.3 S. Quod surripuistī.
+26.4 L. Nihil tibi surripuī.
+26.5 S. Aufer cavillum.
+26.6 L. Nōn equidem cavillor.
+26.7 S. Quīn reddis tandem?
+26.8 L. Nihil, Hercle, sūmpsī!
+26.9 S. Ostende hūc manūs.
+26.10 L. Hem, ostendō eccās.
+26.11 S. Quid abstulistī?
+26.12 L. Equidem nihil abstulī!
+26.13 S. Excute manicam.
+26.14 L. Tuō arbitrātū.
+26.15 S. Inter vestēs habēs.
+26.16 L. Tentā quālubet.
+26.17 S. Nōvī sȳcophantiās.
+26.18 L. Pergis molestus esse?
+26.19 S. Ablātum restitue.
+26.20 L. Fūrtī mē adligās?
+26.21 S. Nōn fūrtī, sed fraudis.
+26.22 L. Ulcīscar hanc iniūriam!
+26.23 S. Et ego tē ulcīscar!
 27.t Dialogus XXVII Prōdeuntium in Fūnus
-27.p Thōmās [BG Franciscus L], Geōrgius
-27.1 Adesdum, Geōrgī.
-27.2 Quid est? Cūr mē vocās?
-27.3 Est quod tē volō.
-27.4 Dictum putā.
-27.5 Quid cēnsēs mē velle?
-27.6 Ut tēcum lūdam.
-27.7 Tōtā errās viā.
-27.8 Quid igitur est?
-27.9 Tū dīvīnā.
-27.10 Nesciō dīvīnāre.
-27.11 In fūnus prōdībimus.
-27.12 Quod fūnus dīcis?
-27.13 Quod sit, nesciō.
-27.14 Unde autem nōstī?
-27.15 Praeceptor indīxit.
-27.16 Quā hōrā efferētur?
-27.17 Putō septimā.
-27.18 Et ego prōdībō.
-27.19 Tū mēcum ībis?
-27.20 Erō tibi comes.
-27.21 Nec frūstrā hoc petō.
-27.22 Cūr autem petis?
-27.23 Ut me doceas.
-27.24 Quid tē docērem?
-27.25 Vīnō benedīcere.
-27.26 Anne dum adfers.
-27.27 Rem ipsam dīcis.
-27.28 Sīc ego dīcerem.
-27.29 Dīc, iam ego auscultō.
-27.30 "Hoc vīnum nōbīs faustum sit." "Bonō sit pōtus iste." "Hoc vīnum laetī bibitē."
-27.31 Quid sternūtantī imprecer?
-27.32 "Sit tibi hoc fēlīx." "Tē Deus servet."
-27.33 Auspicantī aliquid?
-27.34 "Bonō sit quod īnstituis." "Bene vertat quod agis."
-27.35 Quid proficīscentī?
-27.36 "Sit iter hoc fēlix tibi." "Perfaustē solvās ancoram." "Sit laetus tibi reditus."
-27.37 Quid haec precantī referam?
-27.38 "Tantundem tibi reprecor."
-28.t FŌRMULAE Puerōrum Exitum ē Scholā Rogantium [Fōrmulās omīsit B]
+27.p Thōmās [BG Franciscus LE], Geōrgius
+27.1 T. Adesdum, Geōrgī.
+27.2 G. Quid est? Cūr mē vocās?
+27.3 T. Est quod tē volō.
+27.4 G. Dictum putā.
+27.5 T. Quid cēnsēs mē velle?
+27.6 G. Ut tēcum lūdam.
+27.7 T. Tōtā errās viā.
+27.8 G. Quid igitur est?
+27.9 T. Tū dīvīnā.
+27.10 G. Nesciō dīvīnāre.
+27.11 T. In fūnus prōdībimus.
+27.12 G. Quod fūnus dīcis?
+27.13 T. Quod sit, nesciō.
+27.14 G. Unde autem nōstī?
+27.15 T. Praeceptor indīxit.
+27.16 G. Quā hōrā efferētur?
+27.17 T. Putō septimā.
+27.18 G. Et ego prōdībō.
+27.19 T. Tū mēcum ībis?
+27.20 G. Erō tibi comes.
+27.21 T. Nec frūstrā hoc petō.
+27.22 G. Cūr autem petis?
+27.23 T. Ut me doceas.
+27.24 G. Quid tē docērem?
+27.25 T. Vīnō benedīcere.
+27.26 G. Anne dum adfers.
+27.27 T. Rem ipsam dīcis.
+27.28 G. Sīc ego dīcerem.
+27.29 T. Dīc, iam ego auscultō. [Aliter habent ōrdinem persōnārum E et G]
+27.30 G. “Hoc vīnum nōbīs faustum sit.” “Bonō sit pōtus iste.” “Hoc vīnum laetī bibitē.”
+27.31 T. Quid sternūtantī imprecer?
+27.32 G. “Sit tibi hoc fēlīx.” “Tē Deus servet.”
+27.33 T. Auspicantī aliquid?
+27.34 G. “Bonō sit quod īnstituis.” “Bene vertat quod agis.”
+27.35 T. Quid proficīscentī?
+27.36 G. “Sit iter hoc fēlix tibi.” “Perfaustē solvās ancoram.” “Sit laetus tibi reditus.”
+27.37 T. Quid haec precantī referam?
+27.38 G. “Tantundem tibi reprecor.”
+28.t FŌRMULAE Puerōrum Exitum ē Scholā Rogantium [Fōrmulās om. B et E]
 28.1 Colende praeceptor, rogō veniam abeundī domum.
 28.2 Colende praeceptor, rogō veniam abeundī ad ientāculum.
 28.3 Colende praeceptor, rogō veniam exeundī mictum.
