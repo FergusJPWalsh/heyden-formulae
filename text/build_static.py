@@ -1,13 +1,13 @@
-TITLE = "heyden-formulae-latine"
+TITLE = "heyden-formulae-graece"
 # Heyden Formulae Latine
 SRC = f"{TITLE}.txt"
 DEST = f"{TITLE}.html"
 
 HEADER = f"""\
 <!DOCTYPE html>
-<html lang="lat">
+<html lang="grc">
 <head>
-<title>Heyden Fōrmulae Colloquiōrum Puerīlium</title>
+<title>Αἱ τῶν Παιδῶν Ὁμιλίαι τε καὶ Φράσεις Σεβάλδου τοῦ Εὐδένος</title>
 <meta charset="utf-8">
 <link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,700&amp;subset=greek,greek-ext" rel="stylesheet">
 <link href="style.css" rel="stylesheet">
@@ -16,6 +16,8 @@ HEADER = f"""\
 <div class="container">
 <nav>&#x2191; <a href="./">heyden-formulae</a></nav>
 <h1 lang="en">Sebald Heyden Fōrmulae Colloquiōrum Puerīlium</h1>
+<h1>Αἱ τῶν Παιδῶν Ὁμιλίαι τε καὶ Φράσεις Σεβάλδου τοῦ Εὐδένος</h1>
+<h1 lang="en">translated by Martin Ruland the Elder (1556)</h1>
 <h1 lang="en">edited by Fergus Walsh</h1>
 """
 
