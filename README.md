@@ -4,10 +4,6 @@ A repository for a digitisation effort of Sebald Heyden _Formulae Colloquiorum P
 
 This text is being prepared as part of the [Greek Learner Texts Project](https://greek-learner-texts.org/).
 
-## Contributors
-
-* Fergus Walsh
-
 ## Source
 
 Both the Latin text and Greek translation are new critical editions by Fergus Walsh.
