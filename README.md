@@ -10,7 +10,7 @@ This text is being prepared as part of the [Greek Learner Texts Project](https:/
 
 ## Source
 
-Both the Latin text and Greek translation are new critical editions prepared by Fergus Walsh.
+Both the Latin text and Greek translation are new critical editions by Fergus Walsh.
 
 The witnesses to the text and translaton and their sigla are:
 
